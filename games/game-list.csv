@@ -1,2 +1,2 @@
 name, link, image link(local), iframe src, description, working
-monkey-mart, games/monkey-mart.html, assets/images/game-icons/monkey-mart.png, https://monkeymart.gitlab.io/file/, A fun little game where you play as a monkey running a mart., yes
+monkey-mart, games/game.html?game=monkey-mart, assets/images/game-icons/monkey-mart.png, https://monkeymart.gitlab.io/file/, A fun little game where you play as a monkey running a mart., yes
